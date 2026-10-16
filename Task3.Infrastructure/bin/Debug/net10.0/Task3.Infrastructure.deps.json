@@ -252,6 +252,7 @@
         "dependencies": {
           "FluentValidation": "12.2.0",
           "MediatR": "14.2.0",
+          "Microsoft.Extensions.Logging.Abstractions": "10.0.13",
           "Task3.Domain": "1.0.0"
         },
         "runtime": {

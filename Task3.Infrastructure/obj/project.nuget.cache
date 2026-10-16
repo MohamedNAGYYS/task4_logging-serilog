@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sDesvYD47Pc=",
+  "dgSpecHash": "GwPh4HVKsUM=",
   "success": true,
-  "projectFilePath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Infrastructure/Task3.Infrastructure.csproj",
+  "projectFilePath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Infrastructure/Task3.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/home/mohamednagy/.nuget/packages/fluentvalidation/12.2.0/fluentvalidation.12.2.0.nupkg.sha512",
     "/home/mohamednagy/.nuget/packages/mediatr/14.2.0/mediatr.14.2.0.nupkg.sha512",

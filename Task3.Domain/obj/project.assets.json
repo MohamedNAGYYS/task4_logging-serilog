@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Domain/Task3.Domain.csproj",
+      "projectUniqueName": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/Task3.Domain.csproj",
       "projectName": "Task3.Domain",
-      "projectPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Domain/Task3.Domain.csproj",
+      "projectPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/Task3.Domain.csproj",
       "packagesPath": "/home/mohamednagy/.nuget/packages/",
-      "outputPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Domain/obj/",
+      "outputPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mohamednagy/.nuget/NuGet/NuGet.Config"

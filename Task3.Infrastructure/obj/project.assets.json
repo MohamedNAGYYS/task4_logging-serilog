@@ -378,6 +378,7 @@
         "dependencies": {
           "FluentValidation": "12.2.0",
           "MediatR": "14.2.0",
+          "Microsoft.Extensions.Logging.Abstractions": "10.0.13",
           "Task3.Domain": "1.0.0"
         },
         "compile": {
@@ -995,11 +996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Infrastructure/Task3.Infrastructure.csproj",
+      "projectUniqueName": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Infrastructure/Task3.Infrastructure.csproj",
       "projectName": "Task3.Infrastructure",
-      "projectPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Infrastructure/Task3.Infrastructure.csproj",
+      "projectPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Infrastructure/Task3.Infrastructure.csproj",
       "packagesPath": "/home/mohamednagy/.nuget/packages/",
-      "outputPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Infrastructure/obj/",
+      "outputPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mohamednagy/.nuget/NuGet/NuGet.Config"
@@ -1015,11 +1016,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Application/Task3.Application.csproj": {
-              "projectPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Application/Task3.Application.csproj"
+            "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Application/Task3.Application.csproj": {
+              "projectPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Application/Task3.Application.csproj"
             },
-            "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Domain/Task3.Domain.csproj": {
-              "projectPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Domain/Task3.Domain.csproj"
+            "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/Task3.Domain.csproj": {
+              "projectPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/Task3.Domain.csproj"
             }
           }
         }

@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "35VvTN+y3/M=",
+  "dgSpecHash": "kCGOm8p2ydA=",
   "success": true,
-  "projectFilePath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Application/Task3.Application.csproj",
+  "projectFilePath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Application/Task3.Application.csproj",
   "expectedPackageFiles": [
     "/home/mohamednagy/.nuget/packages/fluentvalidation/12.2.0/fluentvalidation.12.2.0.nupkg.sha512",
     "/home/mohamednagy/.nuget/packages/mediatr/14.2.0/mediatr.14.2.0.nupkg.sha512",
     "/home/mohamednagy/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/home/mohamednagy/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
-    "/home/mohamednagy/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0/microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "/home/mohamednagy/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.13/microsoft.extensions.dependencyinjection.abstractions.10.0.13.nupkg.sha512",
+    "/home/mohamednagy/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.13/microsoft.extensions.logging.abstractions.10.0.13.nupkg.sha512",
     "/home/mohamednagy/.nuget/packages/microsoft.identitymodel.abstractions/8.14.0/microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
     "/home/mohamednagy/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.14.0/microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
     "/home/mohamednagy/.nuget/packages/microsoft.identitymodel.logging/8.14.0/microsoft.identitymodel.logging.8.14.0.nupkg.sha512",

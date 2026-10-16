@@ -47,7 +47,7 @@
           }
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.0": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.13": {
         "type": "package",
         "compile": {
           "lib/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -63,10 +63,10 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/10.0.0": {
+      "Microsoft.Extensions.Logging.Abstractions/10.0.13": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.0"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.13"
         },
         "compile": {
           "lib/net10.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -210,10 +210,10 @@
         "mediatr.contracts.nuspec"
       ]
     },
-    "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.0": {
-      "sha512": "L3AdmZ1WOK4XXT5YFPEwyt0ep6l8lGIPs7F5OOBZc77Zqeo01Of7XXICy47628sdVl0v/owxYJTe86DTgFwKCA==",
+    "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.13": {
+      "sha512": "G2GrGWNAPZBsii2F6AU8n+JT2tC1/I0Ml/e9ZyNCgPjf3hZqronP7o0X91aAynCmVeae8KkSIUNXXeXCNRmdVQ==",
       "type": "package",
-      "path": "microsoft.extensions.dependencyinjection.abstractions/10.0.0",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/10.0.13",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -236,15 +236,15 @@
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
-        "microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.10.0.13.nupkg.sha512",
         "microsoft.extensions.dependencyinjection.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Logging.Abstractions/10.0.0": {
-      "sha512": "FU/IfjDfwaMuKr414SSQNTIti/69bHEMb+QKrskRb26oVqpx3lNFXMjs/RC9ZUuhBhcwDM2BwOgoMw+PZ+beqQ==",
+    "Microsoft.Extensions.Logging.Abstractions/10.0.13": {
+      "sha512": "aSZEhEig4fvNiw2zs8Z6NyDlniKtq6YjcF3DyHuqTEHcZ2VKA/6itMPZ+dW+yWABWExlDcQwwdbqX1Rcb7W8WQ==",
       "type": "package",
-      "path": "microsoft.extensions.logging.abstractions/10.0.0",
+      "path": "microsoft.extensions.logging.abstractions/10.0.13",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -308,7 +308,7 @@
         "lib/net9.0/Microsoft.Extensions.Logging.Abstractions.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
-        "microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+        "microsoft.extensions.logging.abstractions.10.0.13.nupkg.sha512",
         "microsoft.extensions.logging.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -419,6 +419,7 @@
     "net10.0": [
       "FluentValidation >= 12.2.0",
       "MediatR >= 14.2.0",
+      "Microsoft.Extensions.Logging.Abstractions >= 10.0.13",
       "Task3.Domain >= 1.0.0"
     ]
   },
@@ -428,11 +429,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Application/Task3.Application.csproj",
+      "projectUniqueName": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Application/Task3.Application.csproj",
       "projectName": "Task3.Application",
-      "projectPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Application/Task3.Application.csproj",
+      "projectPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Application/Task3.Application.csproj",
       "packagesPath": "/home/mohamednagy/.nuget/packages/",
-      "outputPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Application/obj/",
+      "outputPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mohamednagy/.nuget/NuGet/NuGet.Config"
@@ -448,8 +449,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Domain/Task3.Domain.csproj": {
-              "projectPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Domain/Task3.Domain.csproj"
+            "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/Task3.Domain.csproj": {
+              "projectPath": "/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/Task3.Domain.csproj"
             }
           }
         }
@@ -478,6 +479,10 @@
           "MediatR": {
             "target": "Package",
             "version": "[14.2.0, )"
+          },
+          "Microsoft.Extensions.Logging.Abstractions": {
+            "target": "Package",
+            "version": "[10.0.13, )"
           }
         },
         "imports": [

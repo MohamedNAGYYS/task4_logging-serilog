@@ -9,3 +9,15 @@
 /home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Domain/obj/Debug/net10.0/refint/Task3.Domain.dll
 /home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Domain/obj/Debug/net10.0/Task3.Domain.pdb
 /home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task3_MohamedNagy/Task3.Domain/obj/Debug/net10.0/ref/Task3.Domain.dll
+/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/bin/Debug/net10.0/Task3.Domain.deps.json
+/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/bin/Debug/net10.0/Task3.Domain.dll
+/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/bin/Debug/net10.0/Task3.Domain.pdb
+/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/obj/Debug/net10.0/Task3.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/obj/Debug/net10.0/Task3.Domain.AssemblyInfoInputs.cache
+/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/obj/Debug/net10.0/Task3.Domain.AssemblyInfo.cs
+/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/obj/Debug/net10.0/Task3.Domain.csproj.CoreCompileInputs.cache
+/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/obj/Debug/net10.0/Task3.Domain.sourcelink.json
+/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/obj/Debug/net10.0/Task3.Domain.dll
+/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/obj/Debug/net10.0/refint/Task3.Domain.dll
+/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/obj/Debug/net10.0/Task3.Domain.pdb
+/home/mohamednagy/Desktop/Mythings/Backend/BackendProj/Training/MohamedNagy/Task4_MohamedNagy/Task3.Domain/obj/Debug/net10.0/ref/Task3.Domain.dll
